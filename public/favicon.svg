@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#0D0D0C"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" stroke="#C5A880" stroke-width="1.5" stroke-opacity="0.3"/>
+  <!-- Stylized Monogram N & S intersecting with straight razor lines -->
+  <path d="M18 46V18L32 38V18" stroke="#F4F0EA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M46 22C46 19 43 18 39 18C35 18 33 20 33 23C33 29 46 27 46 34C46 38 42 41 38 41C33.5 41 32 38 32 38" stroke="#C5A880" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="48" cy="16" r="2.5" fill="#C5A880"/>
+</svg>
